@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed:
 
    Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/joffcom/n8n-ngrok.git
+   git clone https://github.com/erevlys/n8n-ngrok.git
    ```
 
 2. **Ngrok Authentication**
